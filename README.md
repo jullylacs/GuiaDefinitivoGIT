@@ -1,4 +1,4 @@
-## Guia definitivo sobre GIT e GITHUB
+# Guia definitivo sobre GIT e GITHUB
 
 ## Preparação inicial de versioinamento
 
